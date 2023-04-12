@@ -1,0 +1,302 @@
+/*
+	@name sign_up_form_refurbished
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; background:#506266 }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_sign_up_form_refurbished_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+
+#image {
+	top: 55px;
+	left: 154px;
+	width: 555px;
+	height: 951px;
+}
+
+#wrappers {
+	top: 55px;
+	left: 771px;
+	width: 555px;
+	height: 951px;
+}
+
+#wrapper {
+	top: 0px;
+	left: 0px;
+	width: 555px;
+	height: 951px;
+	background:rgba(32,32,34,1);
+}
+
+
+#wrapper2 {
+	top: 260px;
+	left: 48px;
+	width: 460px;
+	height: 667px;
+	background:rgba(135,135,135,1);
+}
+
+#create_acc_text {
+	top: 232px;
+	left: 819px;
+	width: 488px;
+	height: 98px;
+}
+#create_an_account {
+	top: 0px;
+	left: 0px;
+	width: 488px;
+	height: 98px;
+}
+
+#create_an_account_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 529px;
+	height: 123px;
+	overflow: hidden;
+	font-family: Reem Kufi;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#stay_up_to_date_with_new_collections_and_deals_ {
+	top: 53px;
+	left: 0px;
+	width: 428px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Reem Kufi;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#username_group {
+	
+	font-family: Reem Kufi;
+	font-weight: 500;
+	font-size: 20px;
+	top: 395px;
+	left: 851px;
+	width: 340px;
+	height: 337px;
+	color:#FFFFFF;
+}
+#component_1 {
+	font-weight: 500;
+	top: 0px;
+	left: 0px;
+	width: 340px;
+	height: 89px;
+	color:#FFFFFF;
+}
+
+#rectangle_2 {
+	text-indent: 15px;
+	font-family:  redhat Display;
+	font-size: 18px;
+	opacity:0.75;
+	top: 39px;
+	left: 0px;
+	width: 340px;
+	height: 50px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:white;
+	color:black
+}
+
+
+#username {
+	top: 0px;
+	left: 0px;
+	width: 139px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Reem Kufi;
+	font-size: 24px;
+	text-align: left;
+	color: White;
+}
+
+
+#enter_your_username {
+	opacity:0.5;
+	top: 52px;
+	left: 27px;
+	width: 189px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Red Hat Display;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#component_2 {
+	top: 248px;
+	left: 0px;
+	width: 340px;
+	height: 89px;
+}
+
+#rectangle_2_ek1 {
+	opacity:0.75;
+	top: 39px;
+	left: 0px;
+	width: 340px;
+	height: 50px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:white;
+}
+
+
+#username_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 130px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Reem Kufi;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#enter_your_username_ek1 {
+	opacity:0.5;
+	top: 52px;
+	left: 27px;
+	width: 185px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Red Hat Display;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#component_3 {
+	top: 124px;
+	left: 0px;
+	width: 340px;
+	height: 89px;
+}
+
+#rectangle_2_ek2 {
+	opacity:0.75;
+	top: 39px;
+	left: 0px;
+	width: 340px;
+	height: 50px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	background:white;
+}
+
+
+#username_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 92px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Reem Kufi;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#enter_your_username_ek2 {
+	opacity:0.5;
+	top: 52px;
+	left: 27px;
+	width: 152px;
+	height: 37px;
+	overflow: hidden;
+	font-family: RedHat Display;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#submit_group {
+	top: 39px;
+	left: 0px;
+	width: 340px;
+	height: 50px;
+	top: 782px;
+	left: 857px;
+	width: 114px;
+	height: 51px;
+	opacity:0.75;
+	
+}
+  
+  button.submit {
+	font-family: Reem Kufi;
+	background-color: rgba(217,217,217,0.75);
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+  }
+  
+  button.submit:hover {
+	background-color: blue;
+  }
+  
+  
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 114px;
+	height: 51px;
+}
+
+
+#image_2 {
+	top: 373px;
+	left: 374px;
+	width: 280px;
+	height: 67px;
+}
+
+
+
+/* Add your custom CSS here */
